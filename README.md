@@ -1,4 +1,4 @@
-# guides
+# Guides
 A collection of guides and documentation.
 
 ## License
